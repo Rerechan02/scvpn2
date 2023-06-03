@@ -29,6 +29,7 @@
 
 ## Important Notes
 - Script ini hanya berjalan pada distribusi Linux
+<br>
 <img src="https://img.shields.io/static/v1?style=flat&logo=ubuntu&label=Ubuntu%2010&message=Lts&color=red"> <img src="https://img.shields.io/static/v1?style=flat&logo=debian&label=Debian%2010&message=Buster&color=purple">
 
 - Spesifikasi minimum untuk menjalankan script ini
