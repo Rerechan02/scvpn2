@@ -149,8 +149,8 @@ wget https://raw.githubusercontent.com/Rerechan02/scvpn2/main/setup.sh && chmod 
 - DYNAMIC PATH     : **COMING SOON**
 
 # NOTE
-- Udp Custom only compatible with H.C v4.6.14(529)
-- SLOWDNS BETA TESTER
+- Udp Custom only compatible with H.C v4.6.14(529) ( COMING SOON )
+- SLOWDNS BETA TESTER ( COMINN SOON )
 - OTOMATIS DELLETE AKUN EXP BLM TERSEDIA
 - HAPUS AKUN YANG SUDAH EXP MANUAL
 - AUTO POINTING DOMAIN
